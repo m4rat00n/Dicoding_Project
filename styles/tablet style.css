@@ -1,0 +1,9 @@
+@media screen and (max-width: 1300px){
+    aside, #content{
+        width: 100%;
+        padding: 0;
+    }
+    table{
+        width: 100%;
+    }
+}
